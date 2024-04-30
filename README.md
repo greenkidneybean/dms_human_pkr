@@ -1,2 +1,2 @@
 # dms_human-pkr
-Deep mutational scan of Human PKR under pseudosubstrate antagonism by vaccinia K3
+Deep mutational scan of human PKR under pseudosubstrate antagonism by vaccinia K3
