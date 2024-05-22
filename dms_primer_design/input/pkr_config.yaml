@@ -1,0 +1,29 @@
+# pkr config file
+output_prefix: pkr
+output_path: ./output/
+rng_seed: 55
+wt_seq: ./input/pkr_wt.gb
+vector_seq: ./input/pkr_vector.gb
+homology_length: 20
+max_oligo_length: 60
+fwd_primer_melt_temp: 50
+rev_primer_melt_temp: 55
+mutagenesis_type: missense
+variant_windows:
+    - pkr_1-1
+    - pkr_1-2
+    - pkr_1-3
+    - pkr_1-4
+    - pkr_1-5
+    - pkr_2-1
+    - pkr_2-2
+    - pkr_2-3
+    - pkr_3-1
+    - pkr_3-2
+    - pkr_4-1
+    - pkr_4-2
+    - pkr_4-3
+    - pkr_4-4
+    - pkr_4-5
+synonymous_variant_rate: .05
+remove_stop_variant_rate: .9
