@@ -1,6 +1,6 @@
 # DMS Primer Design for PKR
 
-Code to generate single-residue PKR variants across 4 windows of interest in the kinase domain, released as [dms_primer_design v2.1](https://github.com/greenkidneybean/dms_primer_design/releases/tag/v2.1)
+Code to generate single-residue PKR variants across 4 windows of interest in the kinase domain, using the  [v2.1 release of dms_primer_design](https://github.com/greenkidneybean/dms_primer_design/releases/tag/v2.1)
 
 The `primer_design.py` requires the input files `pkr_config.yaml`, `pkr_wt.gb`, and `pkr_vector.gb` to design a list of doped primers in the output `.tsv` and `.fa` files.  The designed primers were used to generate a library of single-residue variants attained by a single nucleotide change (or SNP) from the canonical PKR coding sequence (Ensemble ENSG00000055332; CDS EIF2AK2-001). Original inputs are provided in the `input` directory. Variants are generated across "tiles" of the coding sequence that are listed as Features in the `.gb` files and listed under **variant_windows** in the `pkr_config.yaml`.  Note that the variant codons are flanked with synonymous changes to the **vector_seq** file.
 
