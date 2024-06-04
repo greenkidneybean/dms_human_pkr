@@ -1,0 +1,98 @@
+# module load snakemake
+# RUN: sh workflow/run_snakefile.sh
+# QUICK: snakemake -s workflow/Snakefile.py --rerun-incomplet -j 50 --latency-wait 120 --cluster="sbatch --cpus-per-task {threads} --mem {resources.mem} --time=08:00:00"
+# module load graphviz
+# snakemake --dag | dot -Tsvg > dag.svg
+# snakemake --rulegraph | dot -Tsvg > rulegraph.svg
+
+# returns named tuple
+SAMPLES,READS, = glob_wildcards("data/fastq/{sample}_{read}_001.fastq.gz")
+FULL_SAMPLES, = glob_wildcards("data/fastq/{x}.fastq.gz")
+#SAMPLES = ["NULL_0_2_S13"]
+
+localrules: all
+rule all:
+    input:
+        "data/multiqc_report.html", # fastq > fastqc > mutliqc
+        #expand("data/bartender/{sample}.pkr.clus_barcode.csv", sample=SAMPLES)
+        expand("data/bartender/{sample}.pkr.clus_barcode.csv", sample=SAMPLES),
+        #''"data/shepherd/H47R_2.csv"
+
+rule fastqc:
+    input: "data/fastq/{full_sample}.fastq.gz",
+    output: "data/fastqc/{full_sample}_fastqc.html",
+    params: module="fastqc/0.11.9"
+    threads: 8
+    group: 1
+    shell:
+        """
+        module load {params.module}
+        fastqc -t {threads} -o data/fastqc {input}
+        """
+
+rule multiqc:
+    input: expand("data/fastqc/{full_sample}_fastqc.html", full_sample=FULL_SAMPLES),
+    output: "data/multiqc_report.html"
+    params: module="multiqc/1.12"
+    shell:
+        """
+        module load {params.module}
+        multiqc -o data .
+        """
+
+rule pear:
+    input:
+        r1="data/fastq/{sample}_R1_001.fastq.gz",
+        r2="data/fastq/{sample}_R2_001.fastq.gz"
+    output:
+        assembled="data/pear/{sample}.assembled.fastq",
+        discarded="data/pear/{sample}.discarded.fastq",
+        unassembled_r1="data/pear/{sample}.unassembled.forward.fastq",
+        unassembled_r2="data/pear/{sample}.unassembled.reverse.fastq"
+    params: module="pear/0.9.11"
+    threads: 16
+    resources:
+        mem="16GB"
+    group: 0
+    shell:
+        """
+        module load {params.module}
+        pear -j {threads} -f {input.r1} -r {input.r2} -o data/pear/{wildcards.sample}
+        """
+
+rule bartender_extract_pkr:
+    input: "data/pear/{sample}.assembled.fastq"
+    output: "data/bartender/{sample}.pkr_barcode.txt"
+    params:
+        module="bartender/1.1",
+        barcode="CAAGG[25-27]GGTGA" # PKR barcode search, try alt regex
+    threads: 2
+    resources:
+        mem="16GB"
+    group: 1
+    shell:
+        """
+        module load {params.module}
+        bartender_extractor_com -f {input} -o data/bartender/{wildcards.sample}.pkr -q "?" -p {params.barcode} -m 2
+        """
+
+rule bartender_cluster_pkr:
+    input: "data/bartender/{sample}.pkr_barcode.txt"
+    output:
+        barcode="data/bartender/{sample}.pkr.clus_barcode.csv",
+        cluster="data/bartender/{sample}.pkr.clus_cluster.csv",
+        quality="data/bartender/{sample}.pkr.clus_quality.csv"
+    params: module="bartender/1.1"
+    threads: 8
+    resources:
+        mem="20GB"
+    group: 2
+    shell:
+        """
+        module load {params.module}
+        bartender_single_com -f {input} -o data/bartender/{wildcards.sample}.pkr.clus -d 2 -t {threads}
+        """
+
+rule remove_pear_files:
+    input: "data/bartender/{sample}.pkr.clus_barcode.csv"
+    shell: "rm data/pear/{wildcards.sample}_*"

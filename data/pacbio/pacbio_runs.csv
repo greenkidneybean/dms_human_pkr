@@ -1,0 +1,2 @@
+library,run,subreads,fastq
+pkr_lib,1773,/data/SBGE/michael/220707_pacbio-v2_pkr-k3l-variants/DATA_BCZ0019_20220803/264PKR279K3L/BCZ0019_1/SMRTCell_1773/m54313U_220729_065631.subreads.fastq.gz,/data/SBGE/michael/220707_pacbio-v2_pkr-k3l-variants/DATA_BCZ0019_20220803/264PKR279K3L/BCZ0019_1/CCS_1773/m54313U_220729_065631.hifi_reads.fastq.gz

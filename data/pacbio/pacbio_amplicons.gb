@@ -1,0 +1,52 @@
+LOCUS       pkr_agei-noti           2216 bp ds-DNA     linear       17-SEP-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     termini5        1..412
+                     /label="termini5"
+     gene            413..2068
+                     /label="gene"
+     spacer          2069..2161
+                     /label="spacer"
+     barcode         2162..2187
+                     /label="barcode"
+     termini3        2188..2216
+                     /label="termini3"
+ORIGIN
+        1 ccggtgaaga cgaggacgca cggaggagag tcttccttcg gagggctgtc acccgctcgg
+       61 cggcttctaa tccgtacttc aatatagcaa tgagcagtta agcgtattac tgaaagttcc
+      121 aaagagaagg tttttttagg ctaatcgacc tcgagcagat ccgccaggcg tgtatatagc
+      181 gtggatggcc aggcaacttt agtgctgaca catacaggca tatatatatg tgtgcgacga
+      241 cacatgatca tatggcatgc atgtgctctg tatgtatata aaactcttgt tttcttcttt
+      301 tctctaaata ttctttcctt atacattagg tcctttgtag cataaattac tatacttcta
+      361 tagacacgca aacacaaata cacacactaa attaccggat caattcCGTA CGatggctgg
+      421 tgatctttca gcaggtttct tcatggagga acttaataca taccgtcaga agcagggagt
+      481 agtacttaaa tatcaagaac tgcctaattc aggacctcca catgatagga ggtttacatt
+      541 tcaagttata atagatggaa gagaatttcc agaaggtgaa ggtagatcaa agaaggaagc
+      601 aaaaaatgcc gcagccaaat tagctgttga gatacttaat aaggaaaaga aggcagttag
+      661 tcctttatta ttgacaacaa cgaattcttc agaaggatta tccatgggga actacatagg
+      721 ccttatcaat agaattgccc agaagaaaag actaactgta aattatgaac agtgtgcatc
+      781 gggggtgcat gggccagaag gatttcatta taaatgcaaa atgggacaga aagaatatag
+      841 tattggtaca ggttctacta aacaggaagc aaaacaattg gccgctaaac ttgcatatct
+      901 tcagatatta tcagaagaaa cctcagtgaa atctgactac ctgtcctctg gttcttttgc
+      961 tactacgtgt gagtcccaaa gcaactcttt agtgaccagc acactcgctt ctgaatcatc
+     1021 atctgaaggt gacttctcag cagatacatc agagataaat tctaacagtg acagtttaaa
+     1081 cagttcttcg ttgcttatga atggtctcag aaataatcaa aggaaggcaa aaagatcttt
+     1141 ggcacccaga tttgaccttc ctgacatgaa agaaacaaag tatactgtgg acaagaggtt
+     1201 tggcatggat tttaaagaaa tagaattaat tggctcaggt ggatttggcc aagttttcaa
+     1261 agcaaaacac agaattgacg gaaagactta cgttattaaa cgtgttaaat ataataacga
+     1321 gaaggcggag cgtgaagtaa aagcattggc aaaacttgat catgtaaata ttgttcacta
+     1381 caatggctgt tgggatggat ttgattatga tcctgagacc agtgatgatt ctcttgagag
+     1441 cagtgattat gatcctgaga acagcaaaaa tagttcaagg tcaaagacta agtgcctttt
+     1501 catccaaatg gaattctgtg ataaagggac cttggaacaa tggattgaaa aaagaagagg
+     1561 cgagaaacta gacaaagttt tggctttgga actctttgaa caaataacaa aaggggtgga
+     1621 ttatatacat tcaaaaaaat taattcatag agatcttaag ccaagtaata tattcttagt
+     1681 agatacaaaa caagtaaaga ttggagactt tggacttgta acatctctga aaaatgatgg
+     1741 aaagcgaaca aggagtaagg gaactttgcg atacatgagc ccagaacaga tttcttcgca
+     1801 agactatgga aaggaagtgg acctctacgc tttggggcta attcttgctg aacttcttca
+     1861 tgtatgtgac actgcttttg aaacatcaaa gtttttcaca gacctacggg atggcatcat
+     1921 ctcagatata tttgataaaa aagaaaaaac tcttctacag aaattactct caaagaaacc
+     1981 tgaggatcga cctaacacat ctgaaatact aaggaccttg actgtgtgga agaaaagccc
+     2041 agagaaaaat gaacgacaca catgttagTA GCGAAAGCTC ACTGACCGTA TATATATATA
+     2101 ACTGTCTAGA AATAAAGAGT ATCATCTTTC AAATCAAGCT CTGCGAGTAT GCTAACCAAG
+     2161 GNNNNNAANN NNNAANNNNN TTNNNNNGGT GACCaagttt ctgtacaaca atcaGC
+//
