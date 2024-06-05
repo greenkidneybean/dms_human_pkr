@@ -2,7 +2,9 @@
 
 # Systematic genetic characterization of the human PKR kinase domain highlights its functional malleability to escape a viral substrate mimic
 
-This repo provides supplementary code and data for the deep mutational scan of human PKR against the poxvirus pseudosubstrate antagonist vaccinia K3  
+A deep mutational scan of human PKR against the poxvirus pseudosubstrate antagonist vaccinia K3
+
+This repo provides supporting code and results this project, a preprint of the results is available [here](https://doi.org/10.1101/2024.05.29.596416).
 
 We generated a library of single-residue variants in the human protein PKR, then screened this library against a pseudosubstrate antagonist, vaccinia K3.  We identified genetic variants that render PKR nonfunctional in the absence of K3, as well as variants that are resistant or susceptible to K3.  This repo provides the code and results used for the analysis and figures included in the manuscript.  Briefly, our analysis can be divided into three portions: (1) design of primers to generate PKR variants, (2) linking PKR variants to genetic barcodes, and (3) analysis of the PKR library screen against vaccinia K3.  Most all figures were generated from the file `results/barseq/pkr-variant-reads_240228.csv` and Jupyter notebooks for analysis are in the `workflow` directory.  
 
