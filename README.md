@@ -2,7 +2,7 @@
 
 # Systematic genetic characterization of the human PKR kinase domain highlights its functional malleability to escape a viral substrate mimic
 
-A deep mutational scan of human PKR against the poxvirus pseudosubstrate antagonist vaccinia K3
+A deep mutational scan of human PKR against the poxvirus pseudosubstrate antagonist vaccinia K3, by Michael Chambers, Sophia Scobell, and Meru Sadhu.
 
 This repo provides supporting code and results this project, a preprint of the results is available [here](https://doi.org/10.1101/2024.05.29.596416).
 
