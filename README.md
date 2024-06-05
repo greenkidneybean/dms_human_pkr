@@ -1,4 +1,4 @@
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-2024.05.29.524100-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2024.05.29.596416v1) 
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-2024.05.29.596416-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2024.05.29.596416v1) 
 
 # Systematic genetic characterization of the human PKR kinase domain highlights its functional malleability to escape a viral substrate mimic
 
