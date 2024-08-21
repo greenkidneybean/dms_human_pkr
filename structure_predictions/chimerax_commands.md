@@ -79,4 +79,30 @@ color #2/A #6dc091 cartoon; color #2/A:255-278 #ffb000 cartoon; color #2/A:371-3
 
 # positive selection sites
 color #2/A #6dc091 surface; color #2/A:261,269,270,271,272,307,314,322,360,368,375,378,379,382,385,389,394,405,428,448,449,462,471,483,486,488,491,493,500,502,504,505,514,520,524 #E62929 surface
+
+# Alignment of Vaccinia K3 (PDB 1LUZ) to eIF2a in complex with PKR (PDB 2A1A), RMSD of 0.819 angstroms
+open 2a1a
+color #1/A gray cartoon
+color #1/B #6dc091 cartoon
+open 1luz
+hide #2/B cartoon
+color #2/A #786bac cartoon
+mm #2/A to #1/A
+preset cylinders
+set bgColor white
+lighting soft
+graphics silhouettes true
+
+# Alignment of AF2 prediction and crystal structure of the PKR-eIF2a complex, RMSD of 0.970 angstroms
+open 2a1a
+open dms_human_pkr/structure_predictions/AlphaFold2/PKR-Kinase-Domain_eIF2a/best_model.pdb
+mm #2/a,b to #1/b,a pair ss
+
+# Alignment of AF2 prediction and crystal structure prediction of PKR-K3 complex, RMSD of 0.944 angstroms
+open 2a1a
+open 1luz
+mm #2/A to #1/A
+combine #1,2
+open dms_human_pkr/structure_predictions/AlphaFold2/PKR-Kinase-Domain_VACV-K3/best_model.pdb
+mm #4/a,b to #3/b,c pair 
 ```
