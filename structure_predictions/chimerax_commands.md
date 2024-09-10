@@ -105,4 +105,13 @@ mm #2/A to #1/A
 combine #1,2
 open dms_human_pkr/structure_predictions/AlphaFold2/PKR-Kinase-Domain_VACV-K3/best_model.pdb
 mm #4/a,b to #3/b,c pair 
+
+# categorize pkr kinase sites
+color #4/A:255-278,371-385,448-455,480-506 light gray cartoon
+# essential pkr kinase residues
+color #4/A:267,276,277,450-451,454,487 black cartoon
+# vaccinia k3 susceptible sites
+color #4/A:278,373,453,489,492 #ea382e cartoon
+# vaccinia k3 resistance sites
+color #4/A:375,378,379,385,480,484-486,490,491,493,501,502,504,506 #2891cb cartoon
 ```
