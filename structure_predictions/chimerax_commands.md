@@ -114,4 +114,15 @@ color #4/A:267,276,277,450-451,454,487 black cartoon
 color #4/A:278,373,453,489,492 #ea382e cartoon
 # vaccinia k3 resistance sites
 color #4/A:375,378,379,385,480,484-486,490,491,493,501,502,504,506 #2891cb cartoon
+
+# k3 aligned to eIF2a 
+color #4/B:9,13,14,19,27,30,33,37,43,50,57,58,60,65,67,68,69,70,71,74,75,76,77,78,83 gray surface; color #4/B:1,2,3,4,5,6,7,8,10,11,12,15,16,17,18,20,21,22,23,24,25,26,28,29,31,32,34,35,36,38,39,40,41,42,44,45,46,47,48,49,51,52,53,54,55,56,59,61,62,63,64,66,72,73,79,80,81,82,84,85,86,87,88 #786bac surface
+
+# select residues near PKR aD and aG
+sele zone #4/A:371-385,480-506 5 #4/B residues 
+color sel orange surface
+
+# select residues near PKR activation segment 
+sele zone #4/A:448-455 5 #4/B residues true
+color sel orange surface
 ```
