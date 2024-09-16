@@ -146,7 +146,7 @@ K3L-H47R,PKR-G274S,-1.91201492511168,0.3851500665479233,0.0715205718565306,29,80
 K3L-H47R,PKR-G274V,-2.145884678540264,0.4044847202867216,0.0862364321200277,22,5501.0,274.0,Region 1,G,V,Unique,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-G276A,-2.0509212611683685,0.446006920045046,0.1051248392066594,18,3007.0,276.0,Region 1,G,A,Unique,Non-Polar,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-G276C,-2.0696347488568776,0.4693364223571597,0.0549316732936096,73,12108.0,276.0,Region 1,G,C,Unique,Polar-Neutral,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-H47R,PKR-G276D,-2.0945576488141637,0.3931103958322358,0.0613935293546392,41,6567.0,276.0,Region 1,G,D,Unique,Negative Charge,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-G276D,-2.094557648814164,0.3931103958322358,0.0613935293546392,41,6567.0,276.0,Region 1,G,D,Unique,Negative Charge,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-G276R,-2.218449899299373,0.3764261236917172,0.0610643807360145,38,5405.0,276.0,Region 1,G,R,Unique,Positive Charge,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-G276S,-2.0752976271261105,0.4121148357648692,0.0507278295890005,66,11589.0,276.0,Region 1,G,S,Unique,Polar-Neutral,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-G276V,-2.1596387058405635,0.5096278583673783,0.0713621740337687,51,8118.0,276.0,Region 1,G,V,Unique,Non-Polar,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
@@ -183,52 +183,52 @@ K3L-H47R,PKR-H483R,0.591194566396851,0.4506059715037205,0.0836754282629823,29,56
 K3L-H47R,PKR-H483Y,1.4280914467537476,0.782765410951829,0.1253427801181967,39,6918.0,483.0,Region 4,H,Y,Positive Charge,Aromatic,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I270K,0.2536680432838802,0.714035850149563,0.1596632699306276,20,5242.0,270.0,Region 1,I,K,Non-Polar,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I270L,0.439471754116235,0.4212992651294127,0.0674618735246127,39,9184.0,270.0,Region 1,I,L,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-H47R,PKR-I270M,0.42331393315607,0.4179848172701824,0.0496056714539761,71,18425.0,270.0,Region 1,I,M,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-H47R,PKR-I270M,0.42331393315607,0.4179848172701824,0.0496056714539761,71,18425.0,270.0,Region 1,I,M,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I270R,0.0109360923378205,0.333927080392917,0.0548972738504301,37,10063.0,270.0,Region 1,I,R,Non-Polar,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I270T,0.8744488047031717,0.4402761463899259,0.1136788121800374,15,4368.0,270.0,Region 1,I,T,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I270V,0.5120267398919804,0.3460671140799811,0.0631829215974397,30,8711.0,270.0,Region 1,I,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I273F,-0.5183130222455753,0.4261371519000699,0.0730819186275203,34,9661.0,273.0,Region 1,I,F,Non-Polar,Aromatic,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-I273L,-1.678809347728594,0.2554738951052667,0.0659630760755625,15,4120.0,273.0,Region 1,I,L,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
-K3L-H47R,PKR-I273M,-2.0004326711677947,0.3177919934247852,0.0424667414162665,56,15996.0,273.0,Region 1,I,M,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
+K3L-H47R,PKR-I273M,-2.0004326711677947,0.3177919934247852,0.0424667414162665,56,15996.0,273.0,Region 1,I,M,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-I273N,-1.8919275587962472,0.2946672448225572,0.0498078551381827,35,8976.0,273.0,Region 1,I,N,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-I273S,-1.552001403585632,0.4011134122203547,0.09728429214332,17,5397.0,273.0,Region 1,I,S,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-I273T,-1.7751560988933472,0.3625881996826154,0.0936198705934732,15,3847.0,273.0,Region 1,I,T,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-I273V,-0.3854668106419222,0.4185862814612345,0.0837172562922469,25,6058.0,273.0,Region 1,I,V,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-I378F,0.5246949124134155,0.861826082946767,0.147801953864281,34,5347.0,378.0,Region 2,I,F,Non-Polar,Aromatic,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I378L,1.563661545107447,1.1704354546511495,0.2758742823083292,18,2552.0,378.0,Region 2,I,L,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-H47R,PKR-I378M,3.1191952020716145,1.007373009470837,0.1002373608837242,101,17133.0,378.0,Region 2,I,M,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-H47R,PKR-I378M,3.1191952020716145,1.007373009470837,0.1002373608837242,101,17133.0,378.0,Region 2,I,M,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I378N,6.865663202077365,1.006098807259478,0.1936238057342069,27,4032.0,378.0,Region 2,I,N,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I378S,5.488541840935518,1.4047148942137526,0.2608490073233644,29,4697.0,378.0,Region 2,I,S,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I378T,4.689972935992539,1.284270940179748,0.3210677350449369,16,2265.0,378.0,Region 2,I,T,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I378V,0.7107791420849803,0.9159070197920473,0.1485797383743073,38,5262.0,378.0,Region 2,I,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-I502F,0.4768124295515443,0.478577077827059,0.0846012742629888,32,7482.0,502.0,Region 4,I,F,Non-Polar,Aromatic,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-I502L,0.5903035497543992,0.4005493950829817,0.107051328777148,14,3214.0,502.0,Region 4,I,L,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
-K3L-H47R,PKR-I502M,0.6373344619200235,0.3544554346444499,0.0477947610573273,55,14752.0,502.0,Region 4,I,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
+K3L-H47R,PKR-I502M,0.6373344619200235,0.3544554346444499,0.0477947610573273,55,14752.0,502.0,Region 4,I,M,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-I502N,0.4054186557914207,0.637490015670039,0.1144965868034708,31,8260.0,502.0,Region 4,I,N,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-I502S,0.8321859855526281,0.3824405688585467,0.0722744740329848,28,7247.0,502.0,Region 4,I,S,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-I502T,1.0116120301430522,0.3426533296607299,0.0714481582589127,23,6023.0,502.0,Region 4,I,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-I502V,1.111949226324784,0.3698069005148813,0.0848395214720193,19,5070.0,502.0,Region 4,I,V,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-I503F,-0.3422640358322315,0.3677776190253481,0.0891991747046871,17,4754.0,503.0,Region 4,I,F,Non-Polar,Aromatic,,,,,,
 K3L-H47R,PKR-I503L,0.9464289499672484,0.3471210287829156,0.0841892156791193,17,4231.0,503.0,Region 4,I,L,Non-Polar,Non-Polar,,,,,,
-K3L-H47R,PKR-I503M,0.1296898608909747,0.4312520258369911,0.0566261651761842,58,16434.0,503.0,Region 4,I,M,Non-Polar,Polar-Neutral,,,,,,
+K3L-H47R,PKR-I503M,0.1296898608909747,0.4312520258369911,0.0566261651761842,58,16434.0,503.0,Region 4,I,M,Non-Polar,Non-Polar,,,,,,
 K3L-H47R,PKR-I503N,0.2579953578959325,0.3994487977377555,0.0893194665272185,20,5383.0,503.0,Region 4,I,N,Non-Polar,Polar-Neutral,,,,,,
 K3L-H47R,PKR-I503S,-0.4468235418377196,0.4583287006864671,0.1000155220984045,21,5296.0,503.0,Region 4,I,S,Non-Polar,Polar-Neutral,,,,,,
 K3L-H47R,PKR-I503T,0.094727806176174,0.312834105743082,0.0943230318523789,11,3307.0,503.0,Region 4,I,T,Non-Polar,Polar-Neutral,,,,,,
 K3L-H47R,PKR-I503V,1.1611538981796383,0.4240963347750487,0.1028584696302843,17,4171.0,503.0,Region 4,I,V,Non-Polar,Non-Polar,,,,,,
 K3L-H47R,PKR-I506K,2.1108674237624587,0.5848812000682627,0.1378578209189314,18,3747.0,506.0,Region 4,I,K,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-I506L,1.2139004934069522,0.4613690141926847,0.0711907844586391,42,10385.0,506.0,Region 4,I,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-I506M,1.0513867554320908,0.5351220429761753,0.0788994407980122,46,12389.0,506.0,Region 4,I,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-I506M,1.0513867554320908,0.5351220429761753,0.0788994407980122,46,12389.0,506.0,Region 4,I,M,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-I506R,2.1960554849440377,0.4791203153952278,0.1237083334903574,15,4162.0,506.0,Region 4,I,R,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-I506T,1.5127721431374936,0.432416373602512,0.0943609887510388,21,4753.0,506.0,Region 4,I,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-I506V,0.8487277094169028,0.4924838986349945,0.1231209746587486,16,4371.0,506.0,Region 4,I,V,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-K256E,0.5322440902174203,0.4879780426764684,0.0635293299586034,59,13494.0,256.0,Region 1,K,E,Positive Charge,Negative Charge,,,,,,
-K3L-H47R,PKR-K256M,0.1607730901712847,0.455511133306809,0.0792943103477727,33,6891.0,256.0,Region 1,K,M,Positive Charge,Polar-Neutral,,,,,,
+K3L-H47R,PKR-K256M,0.1607730901712847,0.455511133306809,0.0792943103477727,33,6891.0,256.0,Region 1,K,M,Positive Charge,Non-Polar,,,,,,
 K3L-H47R,PKR-K256N,0.250173634068718,0.468614704529558,0.0433234447594289,117,24126.0,256.0,Region 1,K,N,Positive Charge,Polar-Neutral,,,,,,
 K3L-H47R,PKR-K256Q,0.2199232637429806,0.4927282602869534,0.0664394650634433,55,11623.0,256.0,Region 1,K,Q,Positive Charge,Polar-Neutral,,,,,,
 K3L-H47R,PKR-K256R,0.0337297125360903,0.4733740460520357,0.0705664363837645,45,9561.0,256.0,Region 1,K,R,Positive Charge,Positive Charge,,,,,,
 K3L-H47R,PKR-K256T,0.1410880033848512,0.4439195819263159,0.0772764802545664,33,6901.0,256.0,Region 1,K,T,Positive Charge,Polar-Neutral,,,,,,
 K3L-H47R,PKR-K261E,0.4801793657795595,0.3817997465633399,0.0645359360524552,35,9033.0,261.0,Region 1,K,E,Positive Charge,Negative Charge,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
-K3L-H47R,PKR-K261M,0.4863004454380835,0.3880392494217201,0.069693906590631,31,6289.0,261.0,Region 1,K,M,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
+K3L-H47R,PKR-K261M,0.4863004454380835,0.3880392494217201,0.069693906590631,31,6289.0,261.0,Region 1,K,M,Positive Charge,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-K261N,0.6574674962122998,0.2871337769253996,0.0356145618125389,65,16551.0,261.0,Region 1,K,N,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-K261Q,0.5663551536126973,0.4645378620576291,0.0692492158455519,45,11353.0,261.0,Region 1,K,Q,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-H47R,PKR-K261R,0.5192221794651788,0.3314804152086522,0.0760468227188114,19,4519.0,261.0,Region 1,K,R,Positive Charge,Positive Charge,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
@@ -258,13 +258,13 @@ K3L-H47R,PKR-K385Q,0.6045884674305771,0.683083186469252,0.1138471977448753,36,49
 K3L-H47R,PKR-K385R,0.2423636882607813,0.6462043799928143,0.1668492534638972,15,2148.0,385.0,Region 2,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K385T,0.9129530627925752,0.6816937798228859,0.1606767648018173,18,3236.0,385.0,Region 2,K,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K449E,0.2776398882989284,0.456457494420476,0.058443393407585,61,11650.0,449.0,Region 3,K,E,Positive Charge,Negative Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-H47R,PKR-K449M,-1.0570560174883916,0.4974973097263907,0.0670825235586731,55,8135.0,449.0,Region 3,K,M,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-H47R,PKR-K449M,-1.0570560174883916,0.4974973097263907,0.0670825235586731,55,8135.0,449.0,Region 3,K,M,Positive Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K449N,-1.68063370893967,0.4798308735219905,0.0451386916016866,113,19833.0,449.0,Region 3,K,N,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K449Q,-0.6603542410600696,0.5831515854391709,0.0734701938916705,63,10048.0,449.0,Region 3,K,Q,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K449R,-0.2004018569845014,0.5683729391688683,0.0910125094218819,39,5739.0,449.0,Region 3,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K449T,0.6504755704804812,0.6431508435102262,0.1071918072517043,36,5991.0,449.0,Region 3,K,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K493E,0.6756749518331953,0.4314116276003299,0.0535100267281053,65,11392.0,493.0,Region 4,K,E,Positive Charge,Negative Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-H47R,PKR-K493M,-1.267227101583846,0.4970627096530908,0.0785925151219365,40,5977.0,493.0,Region 4,K,M,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-H47R,PKR-K493M,-1.267227101583846,0.4970627096530908,0.0785925151219365,40,5977.0,493.0,Region 4,K,M,Positive Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K493N,1.008040982121436,0.4656992176574283,0.0523952555257087,79,14150.0,493.0,Region 4,K,N,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K493Q,0.4994555961487381,0.4894273500310032,0.0746369711614032,43,6866.0,493.0,Region 4,K,Q,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-K493R,0.6711397298432122,0.4578457994133324,0.0723917771643357,40,7156.0,493.0,Region 4,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
@@ -274,12 +274,12 @@ K3L-H47R,PKR-L272I,-0.7400905459340414,0.2691041944744077,0.0538208388948815,25,
 K3L-H47R,PKR-L272S,-1.547838555892136,0.3932457551216743,0.0525496744453039,56,17199.0,272.0,Region 1,L,S,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-L272V,-1.588132956892138,0.3682624813632676,0.0526089259090382,49,12306.0,272.0,Region 1,L,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-L374F,2.062928204673718,0.5772989481298958,0.056608819263287,104,17595.0,374.0,Region 2,L,F,Non-Polar,Aromatic,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-H47R,PKR-L374M,-0.2209150320091227,0.4323343167246861,0.0605389133351435,51,8290.0,374.0,Region 2,L,M,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-L374M,-0.2209150320091227,0.4323343167246861,0.0605389133351435,51,8290.0,374.0,Region 2,L,M,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-L374S,-1.3165779007938276,0.4923347883744126,0.0750803513521033,43,6275.0,374.0,Region 2,L,S,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-L374V,-0.3045549267180536,0.5018573423410582,0.0825048388526279,37,7055.0,374.0,Region 2,L,V,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-L374W,3.563506892334258,0.6984661517973852,0.0941811566954054,55,9606.0,374.0,Region 2,L,W,Non-Polar,Aromatic,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-L452F,-1.9644643298209497,0.3953745158411006,0.0365523869199189,117,28915.0,452.0,Region 3,L,F,Non-Polar,Aromatic,,,,,,
-K3L-H47R,PKR-L452M,-0.1664337866985425,0.4385393724637544,0.0591326369199559,55,11410.0,452.0,Region 3,L,M,Non-Polar,Polar-Neutral,,,,,,
+K3L-H47R,PKR-L452M,-0.1664337866985425,0.4385393724637544,0.0591326369199559,55,11410.0,452.0,Region 3,L,M,Non-Polar,Non-Polar,,,,,,
 K3L-H47R,PKR-L452S,8.802525211254427,0.8971850911486703,0.1401167707950597,41,8152.0,452.0,Region 3,L,S,Non-Polar,Polar-Neutral,,,,,,
 K3L-H47R,PKR-L452V,1.9008072858605325,0.5736573201810641,0.0787978930133646,53,13083.0,452.0,Region 3,L,V,Non-Polar,Non-Polar,,,,,,
 K3L-H47R,PKR-L452W,-2.083702273306117,0.3412183149624873,0.0782808501371955,19,4475.0,452.0,Region 3,L,W,Non-Polar,Aromatic,,,,,,
@@ -300,18 +300,18 @@ K3L-H47R,PKR-L498P,4.121227815078536,0.429278436063888,0.1294323184558624,11,347
 K3L-H47R,PKR-L498Q,2.468145701902368,0.3533617061767304,0.072129656231022,24,8030.0,498.0,Region 4,L,Q,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-L498R,3.4265023143090474,0.4206888427385943,0.0918018317082372,21,7207.0,498.0,Region 4,L,R,Non-Polar,Positive Charge,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-L498V,0.6293653724958312,0.3699094599764785,0.0608127406148046,37,11049.0,498.0,Region 4,L,V,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
-K3L-H47R,PKR-M265I,0.3595287861220661,0.4460778077051825,0.054908382443223,66,19255.0,265.0,Region 1,M,I,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-M265K,0.1988219632951829,0.3335504463890896,0.0680856997609021,24,8511.0,265.0,Region 1,M,K,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-M265L,0.6626808895199258,0.4267137019580875,0.0779069067196603,30,8327.0,265.0,Region 1,M,L,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-M265R,0.1438567602044662,0.4382951426632516,0.1063021863762204,17,5106.0,265.0,Region 1,M,R,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-M265T,0.3913827623360669,0.5070574377025862,0.1106490042839264,21,5245.0,265.0,Region 1,M,T,Polar-Neutral,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-M265V,0.4272199795184813,0.3217526628750422,0.0758378299279238,18,5173.0,265.0,Region 1,M,V,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-M455I,5.327930676529295,0.5661129748753643,0.0632933547382972,80,18900.0,455.0,Region 3,M,I,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-H47R,PKR-M455K,2.600209242862745,0.4953098873920689,0.0803498738328593,38,8972.0,455.0,Region 3,M,K,Polar-Neutral,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-H47R,PKR-M455L,-0.2347199598916486,0.3720814998928193,0.0492833986073332,57,11596.0,455.0,Region 3,M,L,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-H47R,PKR-M455R,6.999671595756931,0.9284022838400292,0.1326288976914327,49,11602.0,455.0,Region 3,M,R,Polar-Neutral,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-H47R,PKR-M455T,3.571158926246941,0.4220601377268022,0.0675837106489136,39,8842.0,455.0,Region 3,M,T,Polar-Neutral,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-H47R,PKR-M455V,5.253072697955552,0.6274746668753269,0.0905681669575352,48,11732.0,455.0,Region 3,M,V,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-M265I,0.3595287861220661,0.4460778077051825,0.054908382443223,66,19255.0,265.0,Region 1,M,I,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-M265K,0.1988219632951829,0.3335504463890896,0.0680856997609021,24,8511.0,265.0,Region 1,M,K,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-M265L,0.6626808895199258,0.4267137019580875,0.0779069067196603,30,8327.0,265.0,Region 1,M,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-M265R,0.1438567602044662,0.4382951426632516,0.1063021863762204,17,5106.0,265.0,Region 1,M,R,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-M265T,0.3913827623360669,0.5070574377025862,0.1106490042839264,21,5245.0,265.0,Region 1,M,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-M265V,0.4272199795184813,0.3217526628750422,0.0758378299279238,18,5173.0,265.0,Region 1,M,V,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-M455I,5.327930676529295,0.5661129748753643,0.0632933547382972,80,18900.0,455.0,Region 3,M,I,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-M455K,2.600209242862745,0.4953098873920689,0.0803498738328593,38,8972.0,455.0,Region 3,M,K,Non-Polar,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-M455L,-0.2347199598916486,0.3720814998928193,0.0492833986073332,57,11596.0,455.0,Region 3,M,L,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-M455R,6.999671595756931,0.9284022838400292,0.1326288976914327,49,11602.0,455.0,Region 3,M,R,Non-Polar,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-M455T,3.571158926246941,0.4220601377268022,0.0675837106489136,39,8842.0,455.0,Region 3,M,T,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-H47R,PKR-M455V,5.253072697955552,0.6274746668753269,0.0905681669575352,48,11732.0,455.0,Region 3,M,V,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-H47R,PKR-Q376*,-2.2287853238738573,0.2863018293639045,0.0572603658727809,25,4239.0,376.0,Region 2,Q,*,Polar-Neutral,Stop,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-Q376E,-0.5594844430409678,0.441770621835762,0.107145113889626,17,3356.0,376.0,Region 2,Q,E,Polar-Neutral,Negative Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-Q376H,-0.2949914987538384,0.5997243528247577,0.0639308308190716,88,13908.0,376.0,Region 2,Q,H,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
@@ -321,7 +321,7 @@ K3L-H47R,PKR-Q376P,3.75972945021151,0.951269575585023,0.2075840398298516,21,4195
 K3L-H47R,PKR-Q376R,0.2748545602065449,0.5971380397324485,0.103948390238605,33,6279.0,376.0,Region 2,Q,R,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-R262G,-0.5974465401594978,0.3744752553109354,0.0720677964862074,27,6486.0,262.0,Region 1,R,G,Positive Charge,Unique,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-R262K,0.0821440638886667,0.4074717997941359,0.1052087663101234,15,3498.0,262.0,Region 1,R,K,Positive Charge,Positive Charge,Conserved Kinase Residue,,,,,
-K3L-H47R,PKR-R262M,0.1230769650207374,0.5313307207542444,0.1084574292094262,24,6378.0,262.0,Region 1,R,M,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
+K3L-H47R,PKR-R262M,0.1230769650207374,0.5313307207542444,0.1084574292094262,24,6378.0,262.0,Region 1,R,M,Positive Charge,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-R262S,0.0767815855174197,0.4654500168161359,0.061650360786944,57,13673.0,262.0,Region 1,R,S,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-R262T,-0.1274405503675085,0.2766346719034223,0.0767246533937651,13,3243.0,262.0,Region 1,R,T,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-H47R,PKR-R262W,-0.6438143304453473,0.3119776665246939,0.0487227258063905,41,10397.0,262.0,Region 1,R,W,Positive Charge,Aromatic,Conserved Kinase Residue,,,,,
@@ -335,7 +335,7 @@ K3L-H47R,PKR-R382I,5.081985327115225,1.81013752741136,0.3304843853166092,30,4174
 K3L-H47R,PKR-R382K,6.272160788362712,1.664517960347552,0.4616542196126026,13,2076.0,382.0,Region 2,R,K,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-R382S,3.606212682980112,2.4045446934091204,0.3507388912604288,47,4541.0,382.0,Region 2,R,S,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-H47R,PKR-R382T,4.5720724956882215,1.9163289714284368,0.4790822428571092,16,1647.0,382.0,Region 2,R,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-H47R,PKR-R453*,-2.1194767587284957,0.3981208997158905,0.0580719016521925,47,12214.0,453.0,Region 3,R,*,Positive Charge,Stop,,,,,,
+K3L-H47R,PKR-R453*,-2.119476758728496,0.3981208997158905,0.0580719016521925,47,12214.0,453.0,Region 3,R,*,Positive Charge,Stop,,,,,,
 K3L-H47R,PKR-R453G,-1.3309232621156148,0.3733924978505813,0.0544648935243526,47,10673.0,453.0,Region 3,R,G,Positive Charge,Unique,,,,,,
 K3L-H47R,PKR-R453L,-2.002766027707832,0.4256845490442208,0.0596077596105067,51,14737.0,453.0,Region 3,R,L,Positive Charge,Non-Polar,,,,,,
 K3L-H47R,PKR-R453P,-1.9356219088050848,0.444048650333515,0.1146528685098389,15,2937.0,453.0,Region 3,R,P,Positive Charge,Unique,,,,,,
@@ -406,7 +406,7 @@ K3L-H47R,PKR-V259A,-0.1950314572465183,0.3341163676041361,0.055686061267356,36,8
 K3L-H47R,PKR-V259E,-0.1315414056082475,0.3939085299895411,0.0551582269473104,51,10715.0,259.0,Region 1,V,E,Non-Polar,Negative Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-V259G,-0.3600430158295411,0.418826628563043,0.0764669307159387,30,6070.0,259.0,Region 1,V,G,Non-Polar,Unique,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-V259L,0.4240628026169263,0.3958241959485874,0.0502697231552188,62,13296.0,259.0,Region 1,V,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-H47R,PKR-V259M,0.0981326225223267,0.5120960220054382,0.0724213139557401,50,10765.0,259.0,Region 1,V,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-H47R,PKR-V259M,0.0981326225223267,0.5120960220054382,0.0724213139557401,50,10765.0,259.0,Region 1,V,M,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-H47R,PKR-V484A,6.336629754037828,0.7905348196698866,0.1467986306793343,29,5111.0,484.0,Region 4,V,A,Non-Polar,Non-Polar,,,,,,
 K3L-H47R,PKR-V484E,7.859038038268537,0.4978691508330923,0.111326926516289,20,3909.0,484.0,Region 4,V,E,Non-Polar,Negative Charge,,,,,,
 K3L-H47R,PKR-V484G,5.519890217110573,0.748273420313865,0.1343938736540796,31,5265.0,484.0,Region 4,V,G,Non-Polar,Unique,,,,,,
@@ -452,7 +452,7 @@ K3L-Null,PKR-D260Y,4.295924680258604,0.4214730137388994,0.0782655738187461,29,10
 K3L-Null,PKR-D266A,3.8010725793875664,0.4122006953060091,0.0945653250155839,19,6561.0,266.0,Region 1,D,A,Negative Charge,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-D266E,3.757092101053989,0.5174715275490033,0.0605654612256694,73,28965.0,266.0,Region 1,D,E,Negative Charge,Negative Charge,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-D266G,4.395122719902128,0.3545784684706962,0.0723780267942282,24,8445.0,266.0,Region 1,D,G,Negative Charge,Unique,Conserved Kinase Residue,,,,,
-K3L-Null,PKR-D266H,2.6980783014567358,0.3987284646058068,0.1151029931868643,12,5261.0,266.0,Region 1,D,H,Negative Charge,Positive Charge,Conserved Kinase Residue,,,,,
+K3L-Null,PKR-D266H,2.698078301456736,0.3987284646058068,0.1151029931868643,12,5261.0,266.0,Region 1,D,H,Negative Charge,Positive Charge,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-D266N,3.7217795305733534,0.4922397070104145,0.1160220115987811,18,7687.0,266.0,Region 1,D,N,Negative Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-D266V,2.6416799546537737,0.3595865429995704,0.063566520744606,32,12274.0,266.0,Region 1,D,V,Negative Charge,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-D266Y,3.246055248313223,0.975076237663935,0.1522813241641652,41,17723.0,266.0,Region 1,D,Y,Negative Charge,Aromatic,Conserved Kinase Residue,,,,,
@@ -614,52 +614,52 @@ K3L-Null,PKR-H483R,5.134522300978192,0.9438049237310104,0.1723144155373057,30,42
 K3L-Null,PKR-H483Y,5.088813776855137,0.8124507837137638,0.137329247322641,35,4948.0,483.0,Region 4,H,Y,Positive Charge,Aromatic,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I270K,4.980100012201515,0.4009840922360677,0.0945128569226851,18,3150.0,270.0,Region 1,I,K,Non-Polar,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I270L,4.799822832673129,0.7275514667234223,0.1165014731646049,39,8720.0,270.0,Region 1,I,L,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-Null,PKR-I270M,4.8396488586385775,0.4701598181612916,0.0554088659438805,72,17403.0,270.0,Region 1,I,M,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-Null,PKR-I270M,4.8396488586385775,0.4701598181612916,0.0554088659438805,72,17403.0,270.0,Region 1,I,M,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I270R,4.937041214626024,0.6446305737283957,0.1059766135070197,37,8581.0,270.0,Region 1,I,R,Non-Polar,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I270T,4.871922341130069,0.3567408091849465,0.092110080859057,15,2710.0,270.0,Region 1,I,T,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I270V,4.892715052939528,0.5784691137706647,0.1056135274774051,30,7038.0,270.0,Region 1,I,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I273F,4.82853830227782,0.6898574447328019,0.118309575721702,34,9048.0,273.0,Region 1,I,F,Non-Polar,Aromatic,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-I273L,4.433016324420882,0.272053170971881,0.0702438266971342,15,4558.0,273.0,Region 1,I,L,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
-K3L-Null,PKR-I273M,3.972875012366509,0.3626843546298028,0.0472174811590369,59,21376.0,273.0,Region 1,I,M,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
+K3L-Null,PKR-I273M,3.972875012366509,0.3626843546298028,0.0472174811590369,59,21376.0,273.0,Region 1,I,M,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-I273N,4.336994596072032,0.3995594345525688,0.0685238777061064,34,11720.0,273.0,Region 1,I,N,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-I273S,4.330856429985203,0.3660022223617455,0.0887685777651928,17,6710.0,273.0,Region 1,I,S,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-I273T,4.428638549781861,0.4759960626130734,0.1189990156532683,16,5150.0,273.0,Region 1,I,T,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-I273V,4.854554900109565,0.732271900853904,0.1526892463370121,23,3698.0,273.0,Region 1,I,V,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-I378F,4.630588741073122,0.4646020639039254,0.0753684070667801,38,6456.0,378.0,Region 2,I,F,Non-Polar,Aromatic,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I378L,4.876458832219935,0.5738729041899565,0.135263140697312,18,2609.0,378.0,Region 2,I,L,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-Null,PKR-I378M,4.871465581710199,0.7562545616703769,0.0745159761359126,103,13877.0,378.0,Region 2,I,M,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-Null,PKR-I378M,4.871465581710199,0.7562545616703769,0.0745159761359126,103,13877.0,378.0,Region 2,I,M,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I378N,4.73986976772113,0.7872927864282362,0.1544008184964774,26,3611.0,378.0,Region 2,I,N,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I378S,4.783101243229245,0.7736895693117275,0.1367702852484054,32,5534.0,378.0,Region 2,I,S,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I378T,4.8843358824191485,0.6741913862568953,0.1589084336799365,18,2885.0,378.0,Region 2,I,T,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I378V,4.7647975495609325,0.6136788816628086,0.098267266349836,39,5942.0,378.0,Region 2,I,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-I502F,4.851986688793265,0.6467220635408529,0.116154711549634,31,6691.0,502.0,Region 4,I,F,Non-Polar,Aromatic,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-I502L,5.166455668877616,0.6514179037729265,0.1740987579663405,14,2613.0,502.0,Region 4,I,L,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
-K3L-Null,PKR-I502M,4.813661675946549,0.6281277821690834,0.0846967328695474,55,11568.0,502.0,Region 4,I,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
+K3L-Null,PKR-I502M,4.813661675946549,0.6281277821690834,0.0846967328695474,55,11568.0,502.0,Region 4,I,M,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-I502N,5.126571506407881,0.5896470350616768,0.1059037338214448,31,6566.0,502.0,Region 4,I,N,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-I502S,4.957113080165412,0.8435298076670404,0.1594121496112238,28,4674.0,502.0,Region 4,I,S,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-I502T,4.969855360143004,0.4191408064720321,0.0873968996689255,23,5039.0,502.0,Region 4,I,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-I502V,4.77554836123758,0.4461122087696804,0.1023451597635135,19,3749.0,502.0,Region 4,I,V,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-I503F,4.830292097093381,0.5012371311360713,0.1253092827840178,16,4093.0,503.0,Region 4,I,F,Non-Polar,Aromatic,,,,,,
 K3L-Null,PKR-I503L,4.796519890275751,0.6463850429200055,0.1567714003987404,17,3769.0,503.0,Region 4,I,L,Non-Polar,Non-Polar,,,,,,
-K3L-Null,PKR-I503M,4.972860008095847,0.5453345184837132,0.0722313215156163,57,12947.0,503.0,Region 4,I,M,Non-Polar,Polar-Neutral,,,,,,
+K3L-Null,PKR-I503M,4.972860008095847,0.5453345184837132,0.0722313215156163,57,12947.0,503.0,Region 4,I,M,Non-Polar,Non-Polar,,,,,,
 K3L-Null,PKR-I503N,4.535422424742199,0.7351278559293632,0.1643795858011728,20,5457.0,503.0,Region 4,I,N,Non-Polar,Polar-Neutral,,,,,,
 K3L-Null,PKR-I503S,4.923148362992195,0.5092185088691762,0.1085657508724441,22,4645.0,503.0,Region 4,I,S,Non-Polar,Polar-Neutral,,,,,,
 K3L-Null,PKR-I503T,4.705083709473084,0.8170170920306169,0.2265997706343746,13,3191.0,503.0,Region 4,I,T,Non-Polar,Polar-Neutral,,,,,,
 K3L-Null,PKR-I503V,4.708927177504229,0.7537098292864941,0.1828014845420276,17,3566.0,503.0,Region 4,I,V,Non-Polar,Non-Polar,,,,,,
 K3L-Null,PKR-I506K,5.070693485314254,0.9474350139063228,0.2233125743555772,18,3454.0,506.0,Region 4,I,K,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-I506L,5.001720773554063,0.4520179763634723,0.0681442739133351,44,8601.0,506.0,Region 4,I,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-I506M,4.928718578561652,0.7820042147065397,0.1140670381294871,47,9433.0,506.0,Region 4,I,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-I506M,4.928718578561652,0.7820042147065397,0.1140670381294871,47,9433.0,506.0,Region 4,I,M,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-I506R,4.804441167413511,0.4020117978579411,0.1037989998721805,15,3081.0,506.0,Region 4,I,R,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-I506T,5.04224565941203,0.6343283531658385,0.1384217949447207,21,4036.0,506.0,Region 4,I,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-I506V,4.894798867535034,0.3493620046583219,0.0873405011645804,16,3348.0,506.0,Region 4,I,V,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-K256E,5.081655734750596,0.6322531612097826,0.0830189072627396,58,10786.0,256.0,Region 1,K,E,Positive Charge,Negative Charge,,,,,,
-K3L-Null,PKR-K256M,4.755243639427627,1.576891822721061,0.2745016321949901,33,5352.0,256.0,Region 1,K,M,Positive Charge,Polar-Neutral,,,,,,
+K3L-Null,PKR-K256M,4.755243639427627,1.576891822721061,0.2745016321949901,33,5352.0,256.0,Region 1,K,M,Positive Charge,Non-Polar,,,,,,
 K3L-Null,PKR-K256N,4.921190828917309,0.6556302471286141,0.061951235211219,112,18733.0,256.0,Region 1,K,N,Positive Charge,Polar-Neutral,,,,,,
 K3L-Null,PKR-K256Q,4.7649857357966745,1.141639936855483,0.1553575175155078,54,9442.0,256.0,Region 1,K,Q,Positive Charge,Polar-Neutral,,,,,,
 K3L-Null,PKR-K256R,5.024627269518673,0.6430510085915693,0.099224924822181,42,7383.0,256.0,Region 1,K,R,Positive Charge,Positive Charge,,,,,,
 K3L-Null,PKR-K256T,4.874707545282271,0.6443583836442633,0.1139075456473153,32,5264.0,256.0,Region 1,K,T,Positive Charge,Polar-Neutral,,,,,,
 K3L-Null,PKR-K261E,4.9158009103099385,0.5353613380217094,0.0918137120107235,34,9502.0,261.0,Region 1,K,E,Positive Charge,Negative Charge,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
-K3L-Null,PKR-K261M,4.808096327183761,0.6493942832302098,0.1166346563740228,31,6837.0,261.0,Region 1,K,M,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
+K3L-Null,PKR-K261M,4.808096327183761,0.6493942832302098,0.1166346563740228,31,6837.0,261.0,Region 1,K,M,Positive Charge,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-K261N,4.897682567076152,0.5718335329986671,0.0703878421687854,66,15491.0,261.0,Region 1,K,N,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-K261Q,4.882453064307838,0.5477839404464045,0.0807663357296555,46,10833.0,261.0,Region 1,K,Q,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-Null,PKR-K261R,4.717574331462539,0.4388279443338387,0.1034327384042034,18,4429.0,261.0,Region 1,K,R,Positive Charge,Positive Charge,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
@@ -689,13 +689,13 @@ K3L-Null,PKR-K385Q,4.863971467912957,1.2771674509903432,0.2128612418317238,36,32
 K3L-Null,PKR-K385R,4.837961326855965,1.142282643821836,0.2492665085879926,21,2094.0,385.0,Region 2,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K385T,5.286617497710735,1.0816995195884205,0.270424879897105,16,1732.0,385.0,Region 2,K,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K449E,3.999214502561125,1.036513593386163,0.1256957361152842,68,14942.0,449.0,Region 3,K,E,Positive Charge,Negative Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-Null,PKR-K449M,4.736043620796601,0.5388326181059863,0.0707521889919622,58,9730.0,449.0,Region 3,K,M,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-Null,PKR-K449M,4.736043620796601,0.5388326181059863,0.0707521889919622,58,9730.0,449.0,Region 3,K,M,Positive Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K449N,4.496940874091054,0.5388111523248034,0.0478117583361411,127,26694.0,449.0,Region 3,K,N,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K449Q,4.64472950402492,0.5690588414302987,0.0695216024635824,67,13866.0,449.0,Region 3,K,Q,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K449R,4.7328732360386505,0.6470319491095747,0.1010494135545594,41,5794.0,449.0,Region 3,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K449T,4.841480190260408,0.6963910265296499,0.1115118094046223,39,5821.0,449.0,Region 3,K,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K493E,4.803232045515811,0.6016855796450792,0.0735075929424407,67,10181.0,493.0,Region 4,K,E,Positive Charge,Negative Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-Null,PKR-K493M,4.962559981396529,0.677769685240786,0.1071647967188145,40,4601.0,493.0,Region 4,K,M,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-Null,PKR-K493M,4.962559981396529,0.677769685240786,0.1071647967188145,40,4601.0,493.0,Region 4,K,M,Positive Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K493N,4.76688085124966,0.6734589588120873,0.0730468801285908,85,13804.0,493.0,Region 4,K,N,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K493Q,4.728695841850546,0.7969742751417376,0.1276180193085939,39,5294.0,493.0,Region 4,K,Q,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-K493R,5.081539724129393,0.5880184172400224,0.0953891832957381,38,5041.0,493.0,Region 4,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
@@ -705,12 +705,12 @@ K3L-Null,PKR-L272I,5.044978170746788,0.5995473766265549,0.1199094753253109,25,50
 K3L-Null,PKR-L272S,5.1102452422276095,0.5983368023552754,0.0806797179709245,55,10161.0,272.0,Region 1,L,S,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-L272V,4.913101047172341,0.5496918816069984,0.0801808016370664,47,9862.0,272.0,Region 1,L,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-L374F,4.094473372484431,0.5328314017856127,0.0503478349946667,112,25176.0,374.0,Region 2,L,F,Non-Polar,Aromatic,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-Null,PKR-L374M,4.7417011638094415,0.6752691814787516,0.0918924963138774,54,9304.0,374.0,Region 2,L,M,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-Null,PKR-L374M,4.7417011638094415,0.6752691814787516,0.0918924963138774,54,9304.0,374.0,Region 2,L,M,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-Null,PKR-L374S,2.047845599292251,0.4907474080024442,0.0715828664958903,47,11310.0,374.0,Region 2,L,S,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-Null,PKR-L374V,5.057554225385176,0.851874842204219,0.1460953301565215,34,4016.0,374.0,Region 2,L,V,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-Null,PKR-L374W,2.5059371244783355,0.5783516057227368,0.0717356879150622,65,15186.0,374.0,Region 2,L,W,Non-Polar,Aromatic,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-Null,PKR-L452F,4.642857173375865,0.7089636531986521,0.0647192308846952,120,25933.0,452.0,Region 3,L,F,Non-Polar,Aromatic,,,,,,
-K3L-Null,PKR-L452M,4.683987123338493,0.642391276524182,0.086620022056038,55,11343.0,452.0,Region 3,L,M,Non-Polar,Polar-Neutral,,,,,,
+K3L-Null,PKR-L452M,4.683987123338493,0.642391276524182,0.086620022056038,55,11343.0,452.0,Region 3,L,M,Non-Polar,Non-Polar,,,,,,
 K3L-Null,PKR-L452S,3.982194137366826,0.489168135184203,0.0763952278677511,41,11188.0,452.0,Region 3,L,S,Non-Polar,Polar-Neutral,,,,,,
 K3L-Null,PKR-L452V,4.866483004643343,0.5188300208872343,0.0706038230228479,54,12935.0,452.0,Region 3,L,V,Non-Polar,Non-Polar,,,,,,
 K3L-Null,PKR-L452W,4.678600842534013,0.3870673398983699,0.0912326469393252,18,4295.0,452.0,Region 3,L,W,Non-Polar,Aromatic,,,,,,
@@ -731,18 +731,18 @@ K3L-Null,PKR-L498P,0.8947565526390201,0.4118954610468831,0.1189039776567015,12,5
 K3L-Null,PKR-L498Q,4.346915625078608,0.509214458136927,0.1039429660069414,24,12028.0,498.0,Region 4,L,Q,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-L498R,3.10554436790171,0.5191604752088843,0.1160878113798159,20,9187.0,498.0,Region 4,L,R,Non-Polar,Positive Charge,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-L498V,4.817066631636113,0.4442133704095932,0.0740355617349322,36,9065.0,498.0,Region 4,L,V,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
-K3L-Null,PKR-M265I,4.879314592149781,0.4319456182883107,0.0553049692663209,61,16057.0,265.0,Region 1,M,I,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-M265K,4.82013631429998,0.6019346539391227,0.1228693967208019,24,4061.0,265.0,Region 1,M,K,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-M265L,4.8998305722701625,0.6273899883331535,0.1145452163209903,30,6056.0,265.0,Region 1,M,L,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-M265R,4.819692308594874,0.5742066055337851,0.1435516513834462,16,4068.0,265.0,Region 1,M,R,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-M265T,4.882815043689278,0.6772821311622278,0.1443970355386414,22,4570.0,265.0,Region 1,M,T,Polar-Neutral,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-M265V,4.769697848180277,0.6420523381580153,0.1513331873960703,18,4104.0,265.0,Region 1,M,V,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-M455I,4.230043469593887,0.435189668689742,0.0469277088443004,86,30780.0,455.0,Region 3,M,I,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-Null,PKR-M455K,1.186411091313219,0.5494120739081505,0.0879763410731362,39,12309.0,455.0,Region 3,M,K,Polar-Neutral,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-Null,PKR-M455L,4.394149111332909,0.5328030354670363,0.0718431466463747,55,18049.0,455.0,Region 3,M,L,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-Null,PKR-M455R,3.3918523479651035,0.5084770568487568,0.0705130808025081,52,16112.0,455.0,Region 3,M,R,Polar-Neutral,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-Null,PKR-M455T,3.8847567079935463,0.4409389021384713,0.0680383497285731,42,13466.0,455.0,Region 3,M,T,Polar-Neutral,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-Null,PKR-M455V,3.974833676577199,0.5721945440285213,0.0801232624192626,51,14936.0,455.0,Region 3,M,V,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-Null,PKR-M265I,4.879314592149781,0.4319456182883107,0.0553049692663209,61,16057.0,265.0,Region 1,M,I,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-M265K,4.82013631429998,0.6019346539391227,0.1228693967208019,24,4061.0,265.0,Region 1,M,K,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-M265L,4.8998305722701625,0.6273899883331535,0.1145452163209903,30,6056.0,265.0,Region 1,M,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-M265R,4.819692308594874,0.5742066055337851,0.1435516513834462,16,4068.0,265.0,Region 1,M,R,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-M265T,4.882815043689278,0.6772821311622278,0.1443970355386414,22,4570.0,265.0,Region 1,M,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-M265V,4.769697848180277,0.6420523381580153,0.1513331873960703,18,4104.0,265.0,Region 1,M,V,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-M455I,4.230043469593887,0.435189668689742,0.0469277088443004,86,30780.0,455.0,Region 3,M,I,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-Null,PKR-M455K,1.186411091313219,0.5494120739081505,0.0879763410731362,39,12309.0,455.0,Region 3,M,K,Non-Polar,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-Null,PKR-M455L,4.394149111332909,0.5328030354670363,0.0718431466463747,55,18049.0,455.0,Region 3,M,L,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-Null,PKR-M455R,3.3918523479651035,0.5084770568487568,0.0705130808025081,52,16112.0,455.0,Region 3,M,R,Non-Polar,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-Null,PKR-M455T,3.8847567079935454,0.4409389021384713,0.0680383497285731,42,13466.0,455.0,Region 3,M,T,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-Null,PKR-M455V,3.974833676577199,0.5721945440285213,0.0801232624192626,51,14936.0,455.0,Region 3,M,V,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-Null,PKR-Q376*,-7.409870882895027,0.4414622540287372,0.0792889614682521,31,6486.0,376.0,Region 2,Q,*,Polar-Neutral,Stop,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-Q376E,5.033139550287874,0.7262913065272905,0.1761515159870512,17,2576.0,376.0,Region 2,Q,E,Polar-Neutral,Negative Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-Q376H,4.833022473684549,0.6972149975908952,0.0707914574077561,97,14064.0,376.0,Region 2,Q,H,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
@@ -752,7 +752,7 @@ K3L-Null,PKR-Q376P,4.314310889245313,0.4452977479493845,0.0995716034642391,20,37
 K3L-Null,PKR-Q376R,4.837017956242703,0.628677605120525,0.1062659105640291,35,5934.0,376.0,Region 2,Q,R,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-R262G,2.5581723643132306,0.3670870405531432,0.0706459338931267,27,9372.0,262.0,Region 1,R,G,Positive Charge,Unique,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-R262K,3.5048675053043947,0.5529434501736188,0.134108485297605,17,4774.0,262.0,Region 1,R,K,Positive Charge,Positive Charge,Conserved Kinase Residue,,,,,
-K3L-Null,PKR-R262M,3.060830968032608,0.4785677404039631,0.0904408019005002,28,8550.0,262.0,Region 1,R,M,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
+K3L-Null,PKR-R262M,3.060830968032608,0.4785677404039631,0.0904408019005002,28,8550.0,262.0,Region 1,R,M,Positive Charge,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-R262S,2.8042083964089604,0.4639191804327313,0.0593987644036331,61,21357.0,262.0,Region 1,R,S,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-R262T,2.9675740943586906,0.2868923276499598,0.0795696152214727,13,5286.0,262.0,Region 1,R,T,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-Null,PKR-R262W,2.999984233291059,0.4370392341979619,0.0666478583944455,43,14543.0,262.0,Region 1,R,W,Positive Charge,Aromatic,Conserved Kinase Residue,,,,,
@@ -768,7 +768,7 @@ K3L-Null,PKR-R382S,4.404140119338662,0.7088871633027239,0.090763700613762,61,734
 K3L-Null,PKR-R382T,4.356424185264042,0.5880340721795636,0.1349042682099694,19,1872.0,382.0,Region 2,R,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-Null,PKR-R453*,-7.258895566096386,0.360773420011007,0.0510210663523291,50,16305.0,453.0,Region 3,R,*,Positive Charge,Stop,,,,,,
 K3L-Null,PKR-R453G,3.4618841913894847,0.4908447592285669,0.0694159315520795,50,16260.0,453.0,Region 3,R,G,Positive Charge,Unique,,,,,,
-K3L-Null,PKR-R453L,3.8421842511562794,0.5725367351974293,0.0786439688280601,53,18536.0,453.0,Region 3,R,L,Positive Charge,Non-Polar,,,,,,
+K3L-Null,PKR-R453L,3.84218425115628,0.5725367351974293,0.0786439688280601,53,18536.0,453.0,Region 3,R,L,Positive Charge,Non-Polar,,,,,,
 K3L-Null,PKR-R453P,0.3695312136805282,0.746175195774603,0.1809740674938014,17,4587.0,453.0,Region 3,R,P,Positive Charge,Unique,,,,,,
 K3L-Null,PKR-R453Q,3.71140040642578,0.4138410591996735,0.0862918259717791,23,6829.0,453.0,Region 3,R,Q,Positive Charge,Polar-Neutral,,,,,,
 K3L-Null,PKR-R499G,4.352534902929432,0.3488949701535234,0.0607348185790585,33,12533.0,499.0,Region 4,R,G,Positive Charge,Unique,Conserved Kinase Residue,,,,,
@@ -837,7 +837,7 @@ K3L-Null,PKR-V259A,4.983160548679936,0.7230679934905458,0.1205113322484243,36,62
 K3L-Null,PKR-V259E,4.636463626135513,0.6246526456752924,0.0883392243286234,50,10020.0,259.0,Region 1,V,E,Non-Polar,Negative Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-V259G,4.848017071588502,0.493324230795636,0.0900682697902182,30,5474.0,259.0,Region 1,V,G,Non-Polar,Unique,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-V259L,4.945785437770353,0.6094661755160852,0.0767855206152954,63,11009.0,259.0,Region 1,V,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-Null,PKR-V259M,4.954438585763945,0.6143456786631273,0.0877636683804467,49,7681.0,259.0,Region 1,V,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-Null,PKR-V259M,4.954438585763945,0.6143456786631273,0.0877636683804467,49,7681.0,259.0,Region 1,V,M,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-Null,PKR-V484A,4.4895312256430735,0.6957803076727332,0.1270315231934136,30,5322.0,484.0,Region 4,V,A,Non-Polar,Non-Polar,,,,,,
 K3L-Null,PKR-V484E,4.599598104071799,0.4794638372760416,0.1072113732902126,20,4079.0,484.0,Region 4,V,E,Non-Polar,Negative Charge,,,,,,
 K3L-Null,PKR-V484G,4.813139999001335,0.6091948752089134,0.1094146295550603,31,4678.0,484.0,Region 4,V,G,Non-Polar,Unique,,,,,,
@@ -924,7 +924,7 @@ K3L-WT,PKR-E269V,3.0123298122448205,0.5116778486713285,0.1044458034941485,24,124
 K3L-WT,PKR-E271A,3.877803065480443,0.7158482200203635,0.1913184843034407,14,5740.0,271.0,Region 1,E,A,Negative Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-E271D,4.133693335230875,0.8551479860853509,0.1132671177649055,57,27647.0,271.0,Region 1,E,D,Negative Charge,Negative Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-E271G,4.250584988984292,0.5601590342509052,0.1022705796165099,30,14419.0,271.0,Region 1,E,G,Negative Charge,Unique,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-WT,PKR-E271K,3.3079751814262197,0.7263262470127736,0.1264371705390828,33,20017.0,271.0,Region 1,E,K,Negative Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-WT,PKR-E271K,3.30797518142622,0.7263262470127736,0.1264371705390828,33,20017.0,271.0,Region 1,E,K,Negative Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-E271Q,3.5431280711437187,0.6377384184365661,0.1048435501566916,37,18633.0,271.0,Region 1,E,Q,Negative Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-E271V,3.3260493511807563,0.6686565564467621,0.1182028963370877,32,15132.0,271.0,Region 1,E,V,Negative Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-E375A,6.231165582373137,0.9598184813162738,0.1919636962632547,25,6133.0,375.0,Region 2,E,A,Negative Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
@@ -1045,56 +1045,56 @@ K3L-WT,PKR-H483R,2.7650089336490025,0.7036507213566837,0.1263794003306252,31,109
 K3L-WT,PKR-H483Y,3.9779390217420407,0.9631129979755378,0.1522815358857918,40,14448.0,483.0,Region 4,H,Y,Positive Charge,Aromatic,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I270K,3.9157629042844753,0.5415229010351061,0.1181699849783549,21,10008.0,270.0,Region 1,I,K,Non-Polar,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I270L,4.009867747162347,0.7233916112907028,0.1116217489566308,42,20451.0,270.0,Region 1,I,L,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-WT,PKR-I270M,3.9373482604367664,0.8140656698002873,0.0940002067194457,75,33089.0,270.0,Region 1,I,M,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-WT,PKR-I270M,3.9373482604367664,0.8140656698002873,0.0940002067194457,75,33089.0,270.0,Region 1,I,M,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I270R,3.4907707403834363,0.539138291604469,0.0898563819340781,36,19695.0,270.0,Region 1,I,R,Non-Polar,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I270T,3.672076807179218,1.3319485352498857,0.343907633001878,15,7190.0,270.0,Region 1,I,T,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I270V,3.654151958743149,0.8113028524004797,0.1481229577426756,30,16040.0,270.0,Region 1,I,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I273F,4.673633485450159,0.6450076374771242,0.109026189829236,35,16737.0,273.0,Region 1,I,F,Non-Polar,Aromatic,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-I273L,-2.9958362446982427,0.3350183124621224,0.0837545781155306,16,7709.0,273.0,Region 1,I,L,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
-K3L-WT,PKR-I273M,-4.004624616339008,0.4359184870283261,0.056276834685488,60,28755.0,273.0,Region 1,I,M,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
+K3L-WT,PKR-I273M,-4.004624616339008,0.4359184870283261,0.056276834685488,60,28755.0,273.0,Region 1,I,M,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-I273N,0.5627970574951213,0.4947959908274615,0.0824659984712436,36,16589.0,273.0,Region 1,I,N,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-I273S,1.56206292145338,0.4071194802944731,0.0959589817564549,18,9171.0,273.0,Region 1,I,S,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-I273T,3.173993347295499,0.747485138589727,0.1868712846474317,16,7656.0,273.0,Region 1,I,T,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-I273V,4.278165673480887,1.353819999202867,0.2822909838725352,23,9922.0,273.0,Region 1,I,V,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-I378F,2.3704803822656624,1.3381371571077123,0.223022859517952,36,11670.0,378.0,Region 2,I,F,Non-Polar,Aromatic,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I378L,3.63433069000715,1.4368738981593832,0.3296414798256897,19,4770.0,378.0,Region 2,I,L,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-WT,PKR-I378M,4.339910315312292,1.0933539044937115,0.1028540834485921,113,32801.0,378.0,Region 2,I,M,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-WT,PKR-I378M,4.339910315312292,1.0933539044937115,0.1028540834485921,113,32801.0,378.0,Region 2,I,M,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I378N,5.647831860071,1.1397376347709505,0.2153901672474927,28,5490.0,378.0,Region 2,I,N,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I378S,4.643052447563943,0.9206020906688412,0.1602562540115467,33,8965.0,378.0,Region 2,I,S,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I378T,5.124458751240702,1.4675400113624435,0.3366767686911275,19,5047.0,378.0,Region 2,I,T,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I378V,3.6139991737421657,1.0906967417610929,0.1746512556194276,39,11611.0,378.0,Region 2,I,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-I502F,3.6793305685127815,0.6759158915718976,0.1142506383201215,35,15020.0,502.0,Region 4,I,F,Non-Polar,Aromatic,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-I502L,4.042844888138538,0.4287095260708805,0.1189026291175712,13,5826.0,502.0,Region 4,I,L,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
-K3L-WT,PKR-I502M,3.9698927842627114,0.5707337739692028,0.0743032084930262,59,27392.0,502.0,Region 4,I,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
+K3L-WT,PKR-I502M,3.969892784262712,0.5707337739692028,0.0743032084930262,59,27392.0,502.0,Region 4,I,M,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-I502N,3.962621110682638,0.4839568648389907,0.086921218877338,31,15313.0,502.0,Region 4,I,N,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-I502S,3.8840713125451,0.4905188488993774,0.0926993491126729,28,15330.0,502.0,Region 4,I,S,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-I502T,3.997423249450759,0.5961063119655496,0.1242967583552204,23,11501.0,502.0,Region 4,I,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-I502V,4.2791121878575735,0.8127156498639304,0.1864497572416241,19,9288.0,502.0,Region 4,I,V,Non-Polar,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-I503F,1.5790403836061395,0.4827817634417137,0.117091776752479,17,8241.0,503.0,Region 4,I,F,Non-Polar,Aromatic,,,,,,
 K3L-WT,PKR-I503L,4.328414781095193,0.5352901855808524,0.126169106708942,18,8656.0,503.0,Region 4,I,L,Non-Polar,Non-Polar,,,,,,
-K3L-WT,PKR-I503M,2.44989315364072,0.5531622810982347,0.0720155949718475,59,32385.0,503.0,Region 4,I,M,Non-Polar,Polar-Neutral,,,,,,
+K3L-WT,PKR-I503M,2.44989315364072,0.5531622810982347,0.0720155949718475,59,32385.0,503.0,Region 4,I,M,Non-Polar,Non-Polar,,,,,,
 K3L-WT,PKR-I503N,2.2461144478620514,0.4207934129810302,0.0940922675909725,20,10794.0,503.0,Region 4,I,N,Non-Polar,Polar-Neutral,,,,,,
 K3L-WT,PKR-I503S,1.2207045130305765,0.5580988963894111,0.1163716643665381,23,10299.0,503.0,Region 4,I,S,Non-Polar,Polar-Neutral,,,,,,
 K3L-WT,PKR-I503T,2.1704229606352823,0.735748661632323,0.2040599634899496,13,6803.0,503.0,Region 4,I,T,Non-Polar,Polar-Neutral,,,,,,
 K3L-WT,PKR-I503V,4.005400030755888,0.2652150776811107,0.0643241046344477,17,9435.0,503.0,Region 4,I,V,Non-Polar,Non-Polar,,,,,,
 K3L-WT,PKR-I506K,5.268209492224281,0.5553236604488632,0.1273999850975626,19,8815.0,506.0,Region 4,I,K,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-I506L,4.481152532532253,1.044072561121415,0.1592195728945168,43,19072.0,506.0,Region 4,I,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-I506M,4.428001068816767,0.4729141189566235,0.066880156086618,50,24085.0,506.0,Region 4,I,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-I506M,4.428001068816767,0.4729141189566235,0.066880156086618,50,24085.0,506.0,Region 4,I,M,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-I506R,5.286482710725526,0.3775660654964022,0.0974871389173749,15,7250.0,506.0,Region 4,I,R,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-I506T,4.529008096994334,0.5455201298503842,0.1163052824705075,22,11224.0,506.0,Region 4,I,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-I506V,4.302523418359165,0.801522585781111,0.1838818922308038,19,10316.0,506.0,Region 4,I,V,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-K256E,3.3767922020897645,0.608042873990689,0.0778519124511988,61,23334.0,256.0,Region 1,K,E,Positive Charge,Negative Charge,,,,,,
-K3L-WT,PKR-K256M,3.056254475822569,0.6311723553535986,0.1098730041239912,33,14036.0,256.0,Region 1,K,M,Positive Charge,Polar-Neutral,,,,,,
+K3L-WT,PKR-K256M,3.056254475822569,0.6311723553535986,0.1098730041239912,33,14036.0,256.0,Region 1,K,M,Positive Charge,Non-Polar,,,,,,
 K3L-WT,PKR-K256N,3.062309079879105,0.8355106337677305,0.0765911342225966,119,49777.0,256.0,Region 1,K,N,Positive Charge,Polar-Neutral,,,,,,
 K3L-WT,PKR-K256Q,3.14370735262964,0.603930051079342,0.0814339114750222,55,22882.0,256.0,Region 1,K,Q,Positive Charge,Polar-Neutral,,,,,,
 K3L-WT,PKR-K256R,3.2607362023367514,0.6949929605187808,0.1013751422771685,47,16694.0,256.0,Region 1,K,R,Positive Charge,Positive Charge,,,,,,
 K3L-WT,PKR-K256T,3.042972612430457,0.5910500615320962,0.0985083435886827,36,15688.0,256.0,Region 1,K,T,Positive Charge,Polar-Neutral,,,,,,
 K3L-WT,PKR-K261E,3.8409222710526127,0.6538915117445865,0.1138279016138252,33,16195.0,261.0,Region 1,K,E,Positive Charge,Negative Charge,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
-K3L-WT,PKR-K261M,3.845364153714942,0.4527366547905425,0.0826580261460698,30,14791.0,261.0,Region 1,K,M,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
+K3L-WT,PKR-K261M,3.845364153714942,0.4527366547905425,0.0826580261460698,30,14791.0,261.0,Region 1,K,M,Positive Charge,Non-Polar,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-K261N,3.867913013053085,0.6573962533720041,0.0803137349963745,67,32638.0,261.0,Region 1,K,N,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-K261Q,3.623757247727063,0.636678429588345,0.0949104165578235,45,19608.0,261.0,Region 1,K,Q,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-K261R,3.720811416017863,0.9201483303254304,0.2057514215990593,20,8490.0,261.0,Region 1,K,R,Positive Charge,Positive Charge,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
-K3L-WT,PKR-K261T,3.7590983470481834,0.3892621847407118,0.1079619051293671,13,4742.0,261.0,Region 1,K,T,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
+K3L-WT,PKR-K261T,3.759098347048184,0.3892621847407118,0.1079619051293671,13,4742.0,261.0,Region 1,K,T,Positive Charge,Polar-Neutral,,Primate Positive Selection,Vertebrate Positive Selection,,Vertebrate Positive Selection,Primate Positive Selection
 K3L-WT,PKR-K268E,3.487912851536584,0.567540533039898,0.0865491198943888,43,20669.0,268.0,Region 1,K,E,Positive Charge,Negative Charge,,,,,,
 K3L-WT,PKR-K268I,2.808146585724689,0.9742211881240728,0.1988620672926631,24,13423.0,268.0,Region 1,K,I,Positive Charge,Non-Polar,,,,,,
 K3L-WT,PKR-K268N,3.772099645993836,0.9097957453972778,0.1004701325806239,82,45994.0,268.0,Region 1,K,N,Positive Charge,Polar-Neutral,,,,,,
@@ -1109,7 +1109,7 @@ K3L-WT,PKR-K371R,2.681147362499315,0.8454128153040634,0.1690825630608126,25,7554
 K3L-WT,PKR-K371T,3.3996804640458578,0.9178458830467392,0.205236578736083,20,5781.0,371.0,Region 2,K,T,Positive Charge,Polar-Neutral,,,,,,
 K3L-WT,PKR-K380E,2.9816181225217897,0.927060188359871,0.1227921216429463,57,15599.0,380.0,Region 2,K,E,Positive Charge,Negative Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-K380I,4.095908262646141,0.7707878011285066,0.1162006331511969,44,12487.0,380.0,Region 2,K,I,Positive Charge,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-K380N,3.4657249937218477,0.6459927786167514,0.0684750975833174,89,28595.0,380.0,Region 2,K,N,Positive Charge,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-K380N,3.465724993721848,0.6459927786167514,0.0684750975833174,89,28595.0,380.0,Region 2,K,N,Positive Charge,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-K380Q,3.0806695347725004,1.083241729428472,0.1487946948470481,53,14837.0,380.0,Region 2,K,Q,Positive Charge,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-K380R,0.2745305118812128,1.3632515437124857,0.237311633207456,33,9193.0,380.0,Region 2,K,R,Positive Charge,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-K380T,3.94644054178332,1.091251313288406,0.2646673193401227,17,4573.0,380.0,Region 2,K,T,Positive Charge,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
@@ -1120,13 +1120,13 @@ K3L-WT,PKR-K385Q,4.080507507650501,0.9031658438188196,0.1428030585667688,40,9038
 K3L-WT,PKR-K385R,3.3987178883962064,1.1238168056252589,0.2395985480117789,22,3546.0,385.0,Region 2,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K385T,4.446334887617708,0.7361917902194096,0.1785527359874814,17,3900.0,385.0,Region 2,K,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K449E,2.253190579137435,1.1561408219548093,0.1434016199989141,65,20467.0,449.0,Region 3,K,E,Positive Charge,Negative Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-WT,PKR-K449M,0.975491114689196,0.9269948976382132,0.118689534407311,61,19161.0,449.0,Region 3,K,M,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-WT,PKR-K449M,0.975491114689196,0.9269948976382132,0.118689534407311,61,19161.0,449.0,Region 3,K,M,Positive Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K449N,-1.7589431921677874,0.5294631232759909,0.0471683239578574,126,39979.0,449.0,Region 3,K,N,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K449Q,0.9733057936294895,0.8654619552489363,0.1019956695692485,72,21130.0,449.0,Region 3,K,Q,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K449R,2.737949778839356,0.9159066420394912,0.1430405858260682,41,14710.0,449.0,Region 3,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K449T,3.267102083675744,0.9240919787665192,0.1499075140510432,38,10729.0,449.0,Region 3,K,T,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K493E,4.449753553886037,0.6620478125776065,0.0780230829572243,72,23838.0,493.0,Region 4,K,E,Positive Charge,Negative Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
-K3L-WT,PKR-K493M,1.856958474507484,0.6775295384597354,0.1045450774826071,42,10125.0,493.0,Region 4,K,M,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
+K3L-WT,PKR-K493M,1.856958474507484,0.6775295384597354,0.1045450774826071,42,10125.0,493.0,Region 4,K,M,Positive Charge,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K493N,4.8305425760179945,0.7470274891969306,0.0815073813204224,84,27246.0,493.0,Region 4,K,N,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K493Q,4.070085305585272,0.6753417976070789,0.1054706690929111,41,13004.0,493.0,Region 4,K,Q,Positive Charge,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-K493R,4.014198773821648,0.8356042101660058,0.1259720744709963,44,13203.0,493.0,Region 4,K,R,Positive Charge,Positive Charge,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
@@ -1136,12 +1136,12 @@ K3L-WT,PKR-L272I,3.879281313460128,0.4725033070707513,0.0945006614141502,25,1283
 K3L-WT,PKR-L272S,4.053684032253574,0.5487882735042366,0.0726887825434222,57,28225.0,272.0,Region 1,L,S,Non-Polar,Polar-Neutral,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-L272V,3.215570489866504,0.6353841455396038,0.0917098018665276,48,26150.0,272.0,Region 1,L,V,Non-Polar,Non-Polar,,,Vertebrate Positive Selection,,Vertebrate Positive Selection,
 K3L-WT,PKR-L374F,4.344405227977191,0.7160492000479708,0.0692230889638331,107,33538.0,374.0,Region 2,L,F,Non-Polar,Aromatic,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-WT,PKR-L374M,2.307322482876608,0.6597617553931646,0.0906252467925821,53,19085.0,374.0,Region 2,L,M,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-WT,PKR-L374M,2.307322482876608,0.6597617553931646,0.0906252467925821,53,19085.0,374.0,Region 2,L,M,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-WT,PKR-L374S,-1.3536837171167482,0.6364050556376044,0.0909150079482292,49,14953.0,374.0,Region 2,L,S,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-WT,PKR-L374V,2.258438076516698,0.8050533736540841,0.1272901149374748,40,12807.0,374.0,Region 2,L,V,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-WT,PKR-L374W,2.876952497615029,1.0780780280204352,0.1327022318610942,66,19041.0,374.0,Region 2,L,W,Non-Polar,Aromatic,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-WT,PKR-L452F,-0.8998460725715951,0.6143066031741794,0.0551663615000703,124,51030.0,452.0,Region 3,L,F,Non-Polar,Aromatic,,,,,,
-K3L-WT,PKR-L452M,3.786494690076917,0.563633197240207,0.074008664570932,58,23149.0,452.0,Region 3,L,M,Non-Polar,Polar-Neutral,,,,,,
+K3L-WT,PKR-L452M,3.786494690076917,0.563633197240207,0.074008664570932,58,23149.0,452.0,Region 3,L,M,Non-Polar,Non-Polar,,,,,,
 K3L-WT,PKR-L452S,6.162001671552978,0.8720141988768796,0.1314610867971346,44,15589.0,452.0,Region 3,L,S,Non-Polar,Polar-Neutral,,,,,,
 K3L-WT,PKR-L452V,-0.8087546339092753,0.4700525848998592,0.0639660547378291,54,21908.0,452.0,Region 3,L,V,Non-Polar,Non-Polar,,,,,,
 K3L-WT,PKR-L452W,-0.944065713292574,0.7031722583988194,0.1499168292120206,22,7290.0,452.0,Region 3,L,W,Non-Polar,Aromatic,,,,,,
@@ -1162,18 +1162,18 @@ K3L-WT,PKR-L498P,2.602135362851038,0.3048966007319776,0.0919297840438881,11,5502
 K3L-WT,PKR-L498Q,3.746326908023505,0.5300842578022021,0.1082029960247773,24,15218.0,498.0,Region 4,L,Q,Non-Polar,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-L498R,3.518096884964228,0.4036832075344333,0.0880908978718623,21,14646.0,498.0,Region 4,L,R,Non-Polar,Positive Charge,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-L498V,3.502395905513676,0.5794204120325277,0.0965700686720879,36,21260.0,498.0,Region 4,L,V,Non-Polar,Non-Polar,Conserved Kinase Residue,,,,,
-K3L-WT,PKR-M265I,3.3778417446988875,0.558225818678413,0.0687128483242845,66,32831.0,265.0,Region 1,M,I,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-M265K,3.072699988768468,0.6316984950591416,0.1263396990118283,25,11486.0,265.0,Region 1,M,K,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-M265L,3.797087722307687,0.5418737366394267,0.0957906484311579,32,14616.0,265.0,Region 1,M,L,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-M265R,3.192692746739566,0.645044471325755,0.1479833507683466,19,8310.0,265.0,Region 1,M,R,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-M265T,3.540650711561228,0.8565659665559467,0.1826204776755637,22,11531.0,265.0,Region 1,M,T,Polar-Neutral,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-M265V,3.0348571385429293,0.6325700025595036,0.1451215113616916,19,9631.0,265.0,Region 1,M,V,Polar-Neutral,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-M455I,4.6756562185452815,0.7686222286781318,0.0843672501424816,83,37223.0,455.0,Region 3,M,I,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-WT,PKR-M455K,1.0243397825308656,0.5896579053841183,0.0920890933111935,41,18937.0,455.0,Region 3,M,K,Polar-Neutral,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-WT,PKR-M455L,-0.7748181356402295,0.5563911526863916,0.075023767723386,55,24190.0,455.0,Region 3,M,L,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-WT,PKR-M455R,5.229577757482016,0.9797534510376704,0.1358673578857352,52,18624.0,455.0,Region 3,M,R,Polar-Neutral,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-WT,PKR-M455T,4.440377301554121,0.5660320711952563,0.0863190816196796,43,18196.0,455.0,Region 3,M,T,Polar-Neutral,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
-K3L-WT,PKR-M455V,4.234191177082952,0.5957142430650663,0.0834166790335833,51,20381.0,455.0,Region 3,M,V,Polar-Neutral,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-WT,PKR-M265I,3.3778417446988875,0.558225818678413,0.0687128483242845,66,32831.0,265.0,Region 1,M,I,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-M265K,3.072699988768468,0.6316984950591416,0.1263396990118283,25,11486.0,265.0,Region 1,M,K,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-M265L,3.797087722307687,0.5418737366394267,0.0957906484311579,32,14616.0,265.0,Region 1,M,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-M265R,3.192692746739566,0.645044471325755,0.1479833507683466,19,8310.0,265.0,Region 1,M,R,Non-Polar,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-M265T,3.540650711561228,0.8565659665559467,0.1826204776755637,22,11531.0,265.0,Region 1,M,T,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-M265V,3.0348571385429293,0.6325700025595036,0.1451215113616916,19,9631.0,265.0,Region 1,M,V,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-M455I,4.6756562185452815,0.7686222286781318,0.0843672501424816,83,37223.0,455.0,Region 3,M,I,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-WT,PKR-M455K,1.0243397825308656,0.5896579053841183,0.0920890933111935,41,18937.0,455.0,Region 3,M,K,Non-Polar,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-WT,PKR-M455L,-0.7748181356402295,0.5563911526863916,0.075023767723386,55,24190.0,455.0,Region 3,M,L,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-WT,PKR-M455R,5.229577757482016,0.9797534510376704,0.1358673578857352,52,18624.0,455.0,Region 3,M,R,Non-Polar,Positive Charge,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-WT,PKR-M455T,4.440377301554121,0.5660320711952563,0.0863190816196796,43,18196.0,455.0,Region 3,M,T,Non-Polar,Polar-Neutral,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
+K3L-WT,PKR-M455V,4.234191177082952,0.5957142430650663,0.0834166790335833,51,20381.0,455.0,Region 3,M,V,Non-Polar,Non-Polar,,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
 K3L-WT,PKR-Q376*,-5.145065788909556,0.5160492392905353,0.0975241393876298,28,9913.0,376.0,Region 2,Q,*,Polar-Neutral,Stop,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-Q376E,2.558987369100665,1.2441138494395554,0.2781923139095784,20,5359.0,376.0,Region 2,Q,E,Polar-Neutral,Negative Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-Q376H,1.6404336634825645,1.1894479355705576,0.1189447935570557,100,30251.0,376.0,Region 2,Q,H,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
@@ -1183,7 +1183,7 @@ K3L-WT,PKR-Q376P,3.74774712046909,1.074165079353538,0.2290127644023554,22,5137.0
 K3L-WT,PKR-Q376R,2.011561840978751,1.2430772005709994,0.213185981120837,34,9069.0,376.0,Region 2,Q,R,Polar-Neutral,Positive Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-R262G,-2.4294085648591937,0.3788863174183226,0.0729167057845781,27,15124.0,262.0,Region 1,R,G,Positive Charge,Unique,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-R262K,2.591190355016085,0.3562589772227971,0.0864054937155358,17,6413.0,262.0,Region 1,R,K,Positive Charge,Positive Charge,Conserved Kinase Residue,,,,,
-K3L-WT,PKR-R262M,2.3677709394107507,0.6364863449577246,0.1224918541989544,27,11998.0,262.0,Region 1,R,M,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
+K3L-WT,PKR-R262M,2.3677709394107507,0.6364863449577246,0.1224918541989544,27,11998.0,262.0,Region 1,R,M,Positive Charge,Non-Polar,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-R262S,2.244302278090362,0.5449504223111233,0.0721804467347343,57,32193.0,262.0,Region 1,R,S,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-R262T,2.1797331187866376,0.4395899223545325,0.1219203080943462,13,6239.0,262.0,Region 1,R,T,Positive Charge,Polar-Neutral,Conserved Kinase Residue,,,,,
 K3L-WT,PKR-R262W,0.7516433573445696,0.452624466662159,0.0698414714807763,42,20547.0,262.0,Region 1,R,W,Positive Charge,Aromatic,Conserved Kinase Residue,,,,,
@@ -1268,7 +1268,7 @@ K3L-WT,PKR-V259A,3.3680693381814883,0.5851284199762005,0.0949203638325369,38,152
 K3L-WT,PKR-V259E,2.7667463890414954,0.4771831596661727,0.0668190074914099,51,23073.0,259.0,Region 1,V,E,Non-Polar,Negative Charge,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-V259G,3.0769246954974347,0.6696152942698838,0.118372378841115,32,10857.0,259.0,Region 1,V,G,Non-Polar,Unique,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-V259L,3.6399266221457056,0.7612479590797819,0.0944211885610373,65,24659.0,259.0,Region 1,V,L,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
-K3L-WT,PKR-V259M,3.5434397386936065,0.5340513287367209,0.0762930469623887,49,21366.0,259.0,Region 1,V,M,Non-Polar,Polar-Neutral,,Primate Positive Selection,,,,Primate Positive Selection
+K3L-WT,PKR-V259M,3.5434397386936065,0.5340513287367209,0.0762930469623887,49,21366.0,259.0,Region 1,V,M,Non-Polar,Non-Polar,,Primate Positive Selection,,,,Primate Positive Selection
 K3L-WT,PKR-V484A,5.677591690553095,0.8314924778442803,0.1518090621703922,30,9037.0,484.0,Region 4,V,A,Non-Polar,Non-Polar,,,,,,
 K3L-WT,PKR-V484E,6.120758573212553,0.5761717676117076,0.1257309875417693,21,7844.0,484.0,Region 4,V,E,Non-Polar,Negative Charge,,,,,,
 K3L-WT,PKR-V484G,5.707050925827251,0.8167946253418882,0.1491256137162443,30,11831.0,484.0,Region 4,V,G,Non-Polar,Unique,,,,,,
@@ -1283,7 +1283,7 @@ K3L-WT,PKR-WT,3.4804794665110066,1.0526105078314951,0.0547226145553776,370,14205
 K3L-WT,PKR-Y257C,3.688212264415992,0.8969065686383637,0.1352137527353906,44,16812.0,257.0,Region 1,Y,C,Aromatic,Polar-Neutral,,,,,,
 K3L-WT,PKR-Y257D,3.323964905336154,0.6010873601700641,0.0927497932941113,42,15715.0,257.0,Region 1,Y,D,Aromatic,Negative Charge,,,,,,
 K3L-WT,PKR-Y257F,3.4922887664228,0.7193560633364733,0.0944560786327249,58,24783.0,257.0,Region 1,Y,F,Aromatic,Aromatic,,,,,,
-K3L-WT,PKR-Y257H,3.1244947080462437,0.5591248498750956,0.0931874749791826,36,14484.0,257.0,Region 1,Y,H,Aromatic,Positive Charge,,,,,,
+K3L-WT,PKR-Y257H,3.124494708046244,0.5591248498750956,0.0931874749791826,36,14484.0,257.0,Region 1,Y,H,Aromatic,Positive Charge,,,,,,
 K3L-WT,PKR-Y257N,3.769138360038696,0.6234694306575682,0.0833146071659869,56,25097.0,257.0,Region 1,Y,N,Aromatic,Polar-Neutral,,,,,,
 K3L-WT,PKR-Y257S,3.4135456723255686,0.5966690793525935,0.1054771880336382,32,12229.0,257.0,Region 1,Y,S,Aromatic,Polar-Neutral,,,,,,
 K3L-WT,PKR-Y454C,-0.4235484139162855,0.4453327027114504,0.0713103035142142,39,15287.0,454.0,Region 3,Y,C,Aromatic,Polar-Neutral,Conserved Kinase Residue,,,Conserved PKR Residue,Conserved PKR Residue,Conserved PKR Residue
