@@ -4,35 +4,35 @@
 max_cpus: 16
 
 # amplicons sequenced by PacBio
-amplicons: input/pacbio_amplicons.gb
+amplicons: ../../data/pacbio/pacbio_amplicons.gb
 
 # the primary target for which we are calling mutations
 # not sure what this really does
 primary_target: variant-barcode
 
 # how to parse the amplicon
-feature_parse_specs: input/feature_parse_specs.yaml
+feature_parse_specs: ../../data/pacbio/feature_parse_specs.yaml
 
 # list of PacBio sequencing runs linking barcodes to variants
 
-pacbio_runs: input/pacbio_runs.csv
+pacbio_runs: ../../data/pacbio/pacbio_runs.csv
 
 
 
 # output directories / files
-ccs_dir: input
-summary_dir: output/summary
+ccs_dir: ../../data/pacbio
+summary_dir: ../../results/alignparse
 
-process_ccs_dir: output/process_ccs
-processed_ccs_file: output/process_ccs/processed_ccs.csv
-variants_dir: output/variants
+process_ccs_dir: ../../results/alignparse/process_ccs
+processed_ccs_file: ../../results/alignparse/process_ccs/processed_ccs.csv
+variants_dir: ../../results/alignparse/variants
 # this gets a bit fucked
 # need a way to track PKR and K3L variants separately
-nt_variant_table_file: output/variants/nucleotide_variant_table.csv
-codon_variant_table_file: output/variants/codon_variant_table.csv
-counts_dir: output/counts
-variant_counts_file: output/counts/variant_counts.csv
-figs_dir: output/figures
+nt_variant_table_file: ../../results/alignparse/variants/nucleotide_variant_table.csv
+codon_variant_table_file: ../../results/alignparse/variants/codon_variant_table.csv
+counts_dir: ../../results/alignparse/counts
+variant_counts_file: ../../results/alignparse/counts/variant_counts.csv
+figs_dir: ../../results/alignparse/figures
 
 # parameters for running PacBio `ccs` program
 min_ccs_accuracy: 0.999
