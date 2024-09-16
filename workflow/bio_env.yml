@@ -1,0 +1,14 @@
+# mamba env create -f bio_env.yml
+name: bio_env
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.8
+  - openssl=3.2.0
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - bioconda::biopython
