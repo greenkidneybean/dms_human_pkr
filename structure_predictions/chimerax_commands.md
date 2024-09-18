@@ -30,7 +30,7 @@ show #1/A surface
 color #1/A #6dc091 surface
 
 # rename residues
-renumber #1/A:1 start 250
+renumber #1/A:1-302 start 250
 
 # save view
 view name 1; turn y 180, view name 2; view 1
